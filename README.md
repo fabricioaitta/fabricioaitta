@@ -17,6 +17,6 @@ Here are some of the technologies I work with:
 - 🚀 NestJs
 - 🚀 Docker
 - 🚀 Flutter (I'm learning)
-- 🚀 AWS Servides (I'm learning)
+- 🚀 AWS Services (I'm learning)
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or suggestions.
