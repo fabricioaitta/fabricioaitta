@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves wo
 - 🔭 I’m currently working on [Extendeal](https://extendeal.com/) as a Frontend Developer.
 - 🌱 I’m constantly learning and always looking to improve my skills in NextJs and Flutter.
 - 💬 I love collaborating and discussing ideas! If you have an interesting project in mind or any questions, feel free to reach out.
-- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/fabricioaitta/) or [Instagram](https://www.instagram.com/fabricioaitta1/).
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/fabricioaitta/).
 
 ## Technologies
 
